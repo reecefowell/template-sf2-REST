@@ -1,3 +1,8 @@
-ansible/inventories/dev-remote.ini
-ansible/inventories/dev-vagrant.ini
-
+/web/bundles/
+/app/cache/*
+/app/logs/*
+/build/
+/vendor/
+/bin/
+/composer.phar
+app/config/parameters.yml
